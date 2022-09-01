@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DenDen039
 - 👀 I’m interested in data and computer science 
-- 🌱 I’m currently learning in  in the second year of applied mathematics department
+- 🌱 I’m currently learning in  in the third year of applied mathematics department
+- 👨‍💻 I'm currently workin in Distributed Lab company
 - 📫 How to reach me https://www.linkedin.com/in/denis-denysyev-826070230/
