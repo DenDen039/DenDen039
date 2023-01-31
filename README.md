@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @DenDen039
-- 👀 I’m interested in data and computer science 
-- 🌱 I’m currently learning in  in the third year of applied mathematics department
-- 👨‍💻 I'm currently working in Pure Storage
-- 📫 How to reach me https://www.linkedin.com/in/denis-denysyev-826070230/
+Сurrently working in Pure Storage and learning in the third year of applied mathematics department
+My stack: Python, Go, C++, Ansible, PostgreSQL, Docker, Kubernetes
+How to reach me https://www.linkedin.com/in/denis-denysyev-826070230/
