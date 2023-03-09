@@ -2,4 +2,4 @@
 
 My stack: Python, Go, C++, Ansible, PostgreSQL, Docker, Kubernetes
 
-How to reach me https://www.linkedin.com/in/denis-denysyev-826070230/
+[LinkedIn](https://www.linkedin.com/in/denys-denysyev-826070230/)
